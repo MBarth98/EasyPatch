@@ -2,7 +2,7 @@
 
 ## Guide
 
-´´´console
+```console
 dotnet build
 dotnet run
-´´´
+```
